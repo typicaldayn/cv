@@ -1,0 +1,39 @@
+body {
+    background-color: #E2DCC8;;
+    color:#100F0F ;
+    padding: 30px;
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+}
+
+.container img {
+    width: 100%;
+    height: auto%;
+}
+
+hr {
+    color:#0F3D3E;
+    text-align: center;
+    border-top: 15px dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1, h3, h5 {
+    color: #100F0F;
+}
+
+p {
+    color: #100F0F;
+}
+
+a {
+    color: #F1F1F1;
+    text-shadow: 1px 1px 2px #0F3D3E;
+}
